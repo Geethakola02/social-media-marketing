@@ -1,0 +1,47 @@
+/* Home Page Styling */
+body.home-page {
+    background-image: url('https://www.601media.com/wp-content/uploads/2023/05/fi_socialmedia-001.jpg');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    color: white;
+    font-family: Arial, sans-serif;
+}
+
+main {
+    max-width: 800px;
+    margin: 80px auto;
+    background-color: rgba(0, 0, 0, 0.6);
+    padding: 30px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+header {
+    background-color: rgba(73, 56, 78, 0.7);
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+footer
+{
+  background-color: rgba(0, 0, 0, 0.7);
+    color: white;
+    padding: 20px;
+    text-align: center;
+    margin-top: 400px;
+}   
+
+nav a {
+    color: #fff;
+    margin: 0 15px;
+    text-decoration: none;
+}
+
+.btn {
+    background-color: #0a9396;
+    color: white;
+    padding: 12px 24px;
+    text-decoration: none;
+    border-radius: 5px;
+}

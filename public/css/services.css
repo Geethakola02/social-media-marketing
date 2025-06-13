@@ -1,0 +1,78 @@
+/* Services Page Styles */
+body.services-page {
+    background-color: #f0f4f8;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+/* Header and Footer */
+header{
+    background-color: #0a9396;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+footer {
+    background-color: #0a9396;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    margin-top:200px;
+}
+nav a {
+    color: #fff;
+    margin: 0 15px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
+
+/* Main Content */
+main {
+    max-width: 900px;
+    margin: 50px auto;
+    background-color: #ffffff;
+    padding: 40px;
+    border-radius: 8px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+}
+
+h2 {
+    color: #0a9396;
+    margin-bottom: 20px;
+    font-size: 32px;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+ul li {
+    background-color: #e7f5f2;
+    margin-bottom: 15px;
+    padding: 15px 20px;
+    border-left: 6px solid #0a9396;
+    font-size: 18px;
+    line-height: 1.6;
+}
+
+a.btn {
+    display: inline-block;
+    background-color: #0a9396;
+    color: white;
+    padding: 12px 25px;
+    text-decoration: none;
+    border-radius: 5px;
+    margin-top: 30px;
+    font-weight: bold;
+}
+
+a.btn:hover {
+    background-color: #007b8a;
+}
